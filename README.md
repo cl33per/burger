@@ -10,7 +10,6 @@
 Burger is made to 
 
 
-
 ### Important before running
 
 Before running the program, you need to install the packages.
